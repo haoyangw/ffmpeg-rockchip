@@ -81,6 +81,9 @@ else
 	CONFIG += --disable-libvpl
 endif
 
+# Enable Rockchip features
+CONFIG += --enable-rkmpp --enable-rkrga
+
 # The standard configuration only uses the shared CONFIG.
 CONFIG_standard = --enable-shared
 
