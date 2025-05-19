@@ -1,4 +1,4 @@
-ffmpeg (7:7.1-3~bpo12+1+git20250422.7683d5e+rkmpp) bookworm-backports; urgency=medium
+ffmpeg (7:7.1-3+git20250422.7683d5e+rkmpp~bpo12u1) bookworm-backports; urgency=medium
 
   * Rebase debian bookworm-backports packaging on 
     nyanmisaka/ffmpeg-rockchip repo
