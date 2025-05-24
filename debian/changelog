@@ -1,3 +1,11 @@
+ffmpeg (7:6.0.1-1+rkmpp~deb12u1) bookworm-updates; urgency=medium
+
+  * Import upstream FFmpeg 6.0.1 source with nyanmisaka rkmpp patches
+    applied on top
+  * Release to Debian Bookworm updates repo
+
+ -- Wang Haoyang <haoyangw@gmail.com>  Sat, 24 May 2025 23:42:00 +0800
+
 ffmpeg (7:6.0-9) unstable; urgency=medium
 
   * debian/patches: Workaround build issues with texinfo 7.1 (Closes:
