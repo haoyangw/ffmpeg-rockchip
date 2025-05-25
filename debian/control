@@ -200,7 +200,12 @@ Build-Depends:
  nasm,
  pkg-kde-tools,
 # autodetected zlib
- zlib1g-dev
+ zlib1g-dev,
+# --enable-rkrga
+ librga2,
+ librga-dev,
+# --enable-rkmpp
+ librockchip-mpp-dev
 
 Package: ffmpeg
 Architecture: any
